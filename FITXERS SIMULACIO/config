@@ -1,0 +1,18 @@
+-fastfwd 100000000 
+-max:inst 100000000 
+-fetch:ifqsize 16
+-decode:width 8
+-issue:width 12
+-commit:width 16 
+-ruu:size 512 
+-lsq:size 256 
+-mem:lat  2 2
+-mem:width 256
+-cache:il1 il1:64:64:8:l 
+-cache:dl1 dl1:64:64:8:l 
+-cache:il2 ul2:2048:64:8:l 
+-res:memport 8
+-res:ialu 8 
+-res:imult 6 
+-res:fpalu 3
+-res:fpmult 3 

@@ -1,0 +1,30 @@
+resultado applu:
+sim_IPC                      3.5513 # instructions per cycle
+resultado Twolf:
+sim_IPC                      3.0451 # instructions per cycle
+resultado Vpr:
+sim_IPC                      1.8721 # instructions per cycle
+resultado Crafty:
+sim_IPC                      2.4206 # instructions per cycle
+resultado Vortex:
+sim_IPC                      2.3889 # instructions per cycle
+resultado applu:
+sim_IPC                      3.5511 # instructions per cycle
+resultado Twolf:
+sim_IPC                      3.0427 # instructions per cycle
+resultado Vpr:
+sim_IPC                      1.7948 # instructions per cycle
+resultado Vortex:
+sim_IPC                      2.4012 # instructions per cycle
+resultado Crafty:
+sim_IPC                      2.4221 # instructions per cycle
+resultado Twolf:
+sim_IPC                      4.3425 # instructions per cycle
+resultado Vpr:
+sim_IPC                      2.1805 # instructions per cycle
+resultado Crafty:
+sim_IPC                      3.1289 # instructions per cycle
+resultado Vortex:
+sim_IPC                      3.2279 # instructions per cycle
+resultado applu:
+sim_IPC                      5.5370 # instructions per cycle
